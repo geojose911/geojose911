@@ -14,8 +14,8 @@ I'm currently a Computer Engineering student<br>I'm working on personal/academic
 ![](https://streak-stats.demolab.com/?user=geojose911&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=geojose911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=geojose911&icon=3&color=2)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=geojose911&color=00d4ff&style=flat-square&label=views)
