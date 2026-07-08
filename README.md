@@ -14,10 +14,26 @@ I'm currently a Computer Engineering student at Sree Narayana Gurukulam College 
 ![](https://streak-stats.demolab.com/?user=geojose911&theme=dark&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=geojose911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 My Contribution Snake
+</div>
 
-![GitHub Strike Snake](https://raw.githubusercontent.com/geojose911/geojose911/output/github-contribution-grid-snake.svg)
+---
 
+## My Contribution Tree 
+
+
+<div align="center">
+
+<!-- Snake animation renders automatically via GitHub Actions (light mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg" />
+  <img alt="🐍 Contribution snake eating my commits" src="dist/snake-light.svg" />
+</picture>
+
+
+</div>
+
+---
 ### 📊 My GitHub Activity
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geojose911&theme=react-dark)
