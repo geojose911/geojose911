@@ -14,6 +14,9 @@ I'm currently a Computer Engineering student at Sree Narayana Gurukulam College 
 ![](https://streak-stats.demolab.com/?user=geojose911&theme=dark&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=geojose911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🐍 My Contribution Snake
+
+![GitHub Strike Snake](https://raw.githubusercontent.com/geojose911/geojose911/output/github-contribution-grid-snake.svg)
 
 ### 📊 My GitHub Activity
 
