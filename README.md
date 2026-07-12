@@ -1,6 +1,5 @@
 # ;) About Me:
-I'm currently a Computer Engineering student at Sree Narayana Gurukulam College of Engineering<br>I'm working on personal/academic projects to sharpen my skills<br>I'm also learning new technologies in software & hardware<br>Ask me about anything I've listed below — always happy to talk tech<br>How to reach me: www.linkedin.com/in/geo-jose-12022634a<br> 
-
+I'm currently a Computer Engineering student at Sree Narayana Gurukulam College of Engineering<br>I'm working on personal/academic projects to sharpen my skills<br>I'm also learning new technologies in software & hardware<br>Ask me about anything I've listed below — always happy to talk tech<br>How to reach me: www.linkedin.com/in/geo-jose-12022634a<br>Here is my Portfolio:<br>
 
 
 
