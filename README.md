@@ -1,4 +1,4 @@
-# ;) About Me:
+# ;) About Me
 I'm currently a Computer Engineering student at Sree Narayana Gurukulam College of Engineering<br>I'm working on personal/academic projects to sharpen my skills<br>I'm also learning new technologies in software & hardware<br>Ask me about anything I've listed below — always happy to talk tech<br>How to reach me: www.linkedin.com/in/geo-jose-12022634a<br>Here is my Portfolio: https://geojose911.github.io/Portfolio/<br>
 
 
@@ -6,7 +6,7 @@ I'm currently a Computer Engineering student at Sree Narayana Gurukulam College 
 ![GitHub Metrics](github-metrics.svg)
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_e_o._.jose) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geo-jose-12022634a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geojose09@gmail.com) 
 
 # Tech Stack:
